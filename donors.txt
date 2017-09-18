@@ -1,0 +1,15 @@
+100,Corvinas,Alexander,A+,7.2
+102,Intervenus,Lestat,O-,12.9
+1033,Swan,Bella,B+,19.20
+1,The First,Dracula,A+,3.1
+95,Collins,Barnabas,B-,4.75
+10011,Carrotjuice,Bunnicula,AB,3
+10230,Daywalker,Blade,A+,3.9
+1234,Sanguina,Duchess Carmilla,A-,17.2
+1238,Silverhair,Spike,B+,14.9
+873,Rivera,Carlos,AB-,15.2
+90,Glick,Danny,A+,13.1
+21345,Dalton,Edward,B+,2.3
+345,Orlock,Count,AB,19.7
+77,Sturges,Henry,A+,11.6
+305,Hamby,Jessica A,A-,9.4
